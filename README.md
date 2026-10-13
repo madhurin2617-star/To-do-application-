@@ -53,7 +53,8 @@ The objective of this project is to simplify daily task management while demonst
 
 ## 👩‍💻 Author
 
-**Madhuri**
+GitHub: https://github.com/madhurin2617-star
+
 
 ## 📄 License
 
